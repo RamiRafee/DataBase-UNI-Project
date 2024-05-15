@@ -8,4 +8,5 @@ seaborn==0.13.2
 spacy==3.7.4
 tld==0.13
 wordcloud==1.9.3
+Werkzeug==2.2.3
 xgboost==1.6.2
