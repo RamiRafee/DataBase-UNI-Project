@@ -1,0 +1,11 @@
+Flask==2.2.3
+matplotlib==3.7.1
+missingno==0.5.2
+numpy==1.24.2
+pandas==2.0.0
+scikit_learn==1.0.2
+seaborn==0.13.2
+spacy==3.7.4
+tld==0.13
+wordcloud==1.9.3
+xgboost==1.6.2
